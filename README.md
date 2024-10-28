@@ -2,7 +2,7 @@
 **Computer Scientist | Data Enthusiast | Driven by Curiosity and Innovation**
 
 ### 👨‍💻 Currently
-**Working on Project OMEGA, an initiative to model synthetic data using Unity software as part of U of C's Artificial Intelligence Club**
+Working on Project OMEGA, an initiative to model synthetic data using Unity software as part of U of C's Artificial Intelligence Club
 ---
 
 ### 💡 Interests
