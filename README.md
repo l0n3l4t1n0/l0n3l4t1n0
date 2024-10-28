@@ -12,6 +12,8 @@ I am passionate about building tools and applications that make data meaningful 
 
 ## 🤝 Connect with Me
 Contact me at le.trigue@gmail.com. I’m always interested in connecting with others in the tech and data science communities! Please feel free to reach out if you’d like to collaborate, discuss ideas, or connect professionally.
+Also, 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-e-trigueros)
 
 ### 🛠️ Languages and Tools:
 
